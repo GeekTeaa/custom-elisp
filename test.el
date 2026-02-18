@@ -1,4 +1,6 @@
 ;;; -*- lexical-binding: t; -*-
 
-(defun my-func ()
+(defun test-my-func ()
   (message "Hello World!"))
+
+(provide 'test)
