@@ -19,7 +19,7 @@
 ;;
 ;;; Code:
 
-;; (load "vulpea-config")
+(load "vulpea-config")
 
 (provide 'skyenet-config)
 ;;; skyenet-config.el ends here
